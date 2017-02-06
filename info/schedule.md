@@ -13,6 +13,10 @@
 | 7    | L: 13-03, P: 15-03 | Naive Bayes                                                | Pt 1: Test 2 -- Pt2 : Comparing Models       | 21-03               |
 | 8    | L: 20-03, P: 22-03 | Clustering: K-Means, Hierarchical Clustering               | Unsupervised Classification                  | -                   |
 
+## Assignments
+
+The assignments are take-home, **non-graded**, and provided at the end of each practical.
+
 ## Deadlines
 
 The dates specified above imply that any assignment should be handed in **BEFORE** 23:59 **ON** the date specified.
