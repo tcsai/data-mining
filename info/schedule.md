@@ -1,17 +1,17 @@
 # Course Schedule
 
-`v06.02.2017` (subject to change – always check the latest version!)
+`v08.03.2017` (subject to change – always check the latest version!)
 
-| Week | Dates              | Lecture                                                    | Practical                                    | Deadline Assignment |
-| ---- | ------------------ | ---------------------------------------------------------- | -------------------------------------------- | ------------------- |
-| 1    | L: 30-01, P: 01-02 | Introduction: Features Representations                     | Introduction: Interpreting Data              | 07-02               |
-| 2    | L: 06-02, P: 08-02 | Linear Regression                                          | Feature Construction & Regression            | 14-02               |
-| 3    | L: 13-02, P: 15-02 | Evaluation, Under- and Overfitting, Hyper-parameter Search | Tuning and Testing: Best Practices           | 21-02               |
-| 4    | L: 20-02, P: 22-02 | Classification: k-Nearest Neighbors                        | Pt 1: Test 1 -- Pt2 : Basic Classification   | 07-03               |
-| 5    |
-| 6    | L: 06-03, P: 08-03 | Principal Component Analysis and Dimensionality            | PCA, Visualization, and Model Performance    | 14-03               |
-| 7    | L: 13-03, P: 15-03 | Naive Bayes                                                | Pt 1: Test 2 -- Pt2 : Comparing Models       | 21-03               |
-| 8    | L: 20-03, P: 22-03 | Clustering: K-Means, Hierarchical Clustering               | Unsupervised Classification                  | -                   |
+| Week | Dates              | Lecture                                                    | Practical                                     | Deadline Assignment |
+| ---- | ------------------ | ---------------------------------------------------------- | --------------------------------------------- | ------------------- |
+| 1    | L: 30-01, P: 01-02 | Introduction: Features Representations                     | Introduction: Interpreting Data               | 07-02               |
+| 2    | L: 06-02, P: 08-02 | Linear Regression                                          | Features and Regression                       | 14-02               |
+| 3    | L: 13-02, P: 15-02 | Classification: k-Nearest Neighbors                        | Feature Construction and Evaluation           | 21-02               |
+| 4    | L: 20-02, P: 22-02 | Evaluation, Under- and Overfitting, Hyper-parameter Search | Pt 1: Test 1 -- Pt2 : Discuss Assignments     | 07-03               |
+| 5    |                    |                                                            | Q & A Session                                 |                     |
+| 6    | L: 06-03, P: 08-03 | Principal Component Analysis and Dimensionality            | Pt 1: Discuss test 1 --- Pt 2: Best Practices | -                   |
+| 7    | L: 13-03, P: 15-03 | Naive Bayes                                                | Pt 1: Test 2 -- Pt2 : Bayes for Text Data     | 21-03               |
+| 8    | L: 20-03, P: 22-03 | Clustering: K-Means, Hierarchical Clustering               | Practical Applications of Data Mining         | -                   |
 
 ## Assignments
 
@@ -29,7 +29,7 @@ The dates specified above imply that any assignment should be handed in **BEFORE
 | 22-02 |             | In-class Practical Test 1                                  | 25  |
 | 15-03 |             | In-class Practical Test 2                                  | 25  |
 | 30-03	| 08:30-11:00 | Exam                                                       | 50  |
-| TBA   |             | In-class Resit                     | 25  |
+| TBA   |             | In-class Resit                                             | 25  |
 | 21-06	|             | Re-sit                                                     | 50  |
 
 ##  In-class Details
