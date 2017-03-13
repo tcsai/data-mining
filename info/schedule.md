@@ -11,7 +11,7 @@
 | 5    |                    |                                                            | Q & A Session                                 |                     |
 | 6    | L: 06-03, P: 08-03 | Principal Component Analysis and Dimensionality            | Pt 1: Discuss test 1 --- Pt 2: Best Practices | -                   |
 | 7    | L: 13-03, P: 15-03 | Naive Bayes                                                | Pt 1: Test 2 -- Pt2 : Bayes for Text Data     | 21-03               |
-| 8    | L: 20-03, P: 22-03 | Clustering: K-Means, Hierarchical Clustering               | Practical Applications of Data Mining         | -                   |
+| 8    | L: 20-03, P: 22-03 | Clustering: K-Means, Hierarchical Clustering               | Pt 1: Discuss test 2 --- Pt 2: Practical Applications | -                   |
 
 ## Assignments
 
