@@ -1,17 +1,17 @@
 # Course Schedule
 
-`v05.09.2017` (subject to change – always check the latest version!)
+`v20.09.2017` (subject to change – always check the latest version!)
 
 | #    | Date  | Lectures (Theory - Willem)      | Date  | Video Lectures (Applications - Chris)         | Video Practicals & Notebooks                        |
 | ---- | ----- | ------------------------------- | ----- | --------------------------------------------- | --------------------------------------------------- |
 | 1    | 29-08 | Introduction to Data Mining     | 31-08 | Introduction to Data Science                  | Introduction to jupyter, pandas, and scikit-learn   |
 | 2    | 05-09 | Regression                      | 07-09 | Representing Data: Vectors, Types, Databases  | Handling & Interpreting Data, Plotting              |
 | 3    | 12-09 | Classification                  | 14-09 | Working with Text Data Part 1 (17-09)         | DIY Pandas + scikit-learn                           |
-| 4    | 19-09 | Algorithm Fitting & Tuning      | 21-09 | Working with Text Data Part 2                 | **No practical** -> time to prepare for midterm.    |
-| 5    | 26-09 | **Midterm**                     | 28-09 | Best Practices, Common Pitfalls & Research    | Preprocessing + Pipelines, MNIST Challenge          |
+| 4    | 19-09 | Algorithm Fitting & Tuning      | 21-09 | Best Practices, Common Pitfalls & Research    | **No practical** -> time to prepare for midterm.    |
+| 5    | 26-09 | **Midterm**                     | 28-09 | Working with Text Data Part 2                 | Preprocessing + Pipelines, MNIST Challenge          |
 | 6    | 03-10 | Data Reduction & Decomposition  | 05-10 | Mining Massive Data, Ensemble Methods         | Online / Out-of-Core Learning                       |
-| 7    | 10-10 | Time Series Analysis            | 12-10 | Applications of Deep Learning                 | Social Media and Multi-modal Data                   |
-| 8    | 17-10 | Clustering and Graphs           | 19-10 | Explaining Models, Ethics, Privacy            | Unsupervised Learning: Intuitions and Metrics       |
+| 7    | 10-10 | Clustering and Graphs           | 12-10 | Applications of Deep Learning                 | Social Media and Multi-modal Data                   |
+| 8    | 17-10 | Time Series Analysis            | 19-10 | Explaining Models, Ethics, Privacy            | Unsupervised Learning: Intuitions and Metrics       |
 
 ## Deadlines
 
