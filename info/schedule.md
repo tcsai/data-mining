@@ -6,8 +6,8 @@
 | ---- | ----- | ------------------------------ | ----- | ------------------------------------- | -------------------------- |
 | 1    | 29-08 | Introduction to Data Mining    | 31-08 | Introduction to Data Science          | Setting up Jupyter         |
 | 2    | 05-09 | Regression                     | 07-09 | Representing Data                     | Raw Data to Observations   |
-| 3    | 12-09 | Classification                 | 14-09 | Working with Text Data Part 1         |                            |
-| 4    | 19-09 | Algorithm Fitting & Tuning     | 21-09 | Best Practices, Common Pitfalls       |                            |
+| 3    | 12-09 | Classification                 | 14-09 | Working with Text Data Part 1         | DIY Pandas + scikit-learn  |
+| 4    | 19-09 | Algorithm Fitting & Tuning     | 21-09 | Best Practices, Common Pitfalls       | *No practical*             |
 | 5    | 26-09 | **Midterm**                    | 28-09 | Working with Text Data Part 2         | DIY Pandas + scikit-learn  |
 | 6    | 03-10 | Data Reduction & Decomposition | 05-10 | Mining Massive Data                   | Preprocessing + Pipelines  |
 | 7    | 10-10 | Clustering and Graphs          | 12-10 | Applications of Deep Learning         | Unsupervised Learning      |
