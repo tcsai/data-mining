@@ -13,7 +13,7 @@
 | 7    | 10-10 | Clustering and Graphs          | 12-10 | Mining Massive Data                   | Unsupervised Learning      |
 | 8    | 17-10 | Recap Lecture                  | 19-10 | Applications of Deep Learning*        | MNIST Challenge*           |
 
-* Will not be exam material.
+\*Will not be exam material.
 
 Planned bonus videos: "Data Science Research", "Explaining models, Ethics, Privacy".
 
