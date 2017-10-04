@@ -1,6 +1,6 @@
 # Course Schedule
 
-`v27.09.2017` (subject to change – always check the latest version!)
+`v04.10.2017` (subject to change – always check the latest version!)
 
 | #    | Date  | Lectures (Theory - Willem)     | Date  | Video Lectures (Applications - Chris) | Practicals & Notebooks     |
 | ---- | ----- | ------------------------------ | ----- | ------------------------------------- | -------------------------- |
@@ -8,10 +8,15 @@
 | 2    | 05-09 | Regression                     | 07-09 | Representing Data                     | Raw Data to Observations   |
 | 3    | 12-09 | Classification                 | 14-09 | Working with Text Data Part 1         | DIY Pandas + scikit-learn  |
 | 4    | 19-09 | Algorithm Fitting & Tuning     | 21-09 | Best Practices, Common Pitfalls       | *No practical*             |
-| 5    | 26-09 | **Midterm**                    | 28-09 | Working with Text Data Part 2         | DIY Pandas + scikit-learn  |
-| 6    | 03-10 | Data Reduction & Decomposition | 05-10 | Mining Massive Data                   | Preprocessing + Pipelines  |
-| 7    | 10-10 | Clustering and Graphs          | 12-10 | Applications of Deep Learning         | Unsupervised Learning      |
-| 8    | 17-10 | Recap Lecture                  | 19-10 | Explaining Models, Ethics, Privacy    | MNIST Challenge            |
+| 5    | 26-09 | **Midterm**                    | 28-09 |                                       | DIY Pandas + scikit-learn  |
+| 6    | 03-10 | Data Reduction & Decomposition | 05-10 | Working with Text Data Part 2         | Preprocessing + Pipelines  |
+| 7    | 10-10 | Clustering and Graphs          | 12-10 | Mining Massive Data                   | Unsupervised Learning      |
+| 8    | 17-10 | Recap Lecture                  | 19-10 | Applications of Deep Learning*        | MNIST Challenge*           |
+
+* Will not be exam material.
+
+Planned bonus videos: "Data Science Research", "Explaining models, Ethics, Privacy".
+
 
 ## Deadlines
 
